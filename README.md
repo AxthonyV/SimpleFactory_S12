@@ -6,7 +6,7 @@ de objetos entonces el cliente solo trabaja con el tipo abstracto `Laptop`.
 
 ## Diagrama de Clases
 
-![Diagrama de clases Simple Factory](diagrama-simple-factory.png)
+<img width="803" height="437" alt="S12Factory" src="https://github.com/user-attachments/assets/76b1913e-3c1c-4f40-a0bc-cd8a2f30e1d1" />
 
 ---
 
